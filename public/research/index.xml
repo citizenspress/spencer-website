@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Spencer Barrett</title>
+    <link>http://spencerbarrett.ca/research/</link>
+    <description>Recent content in Research on Spencer Barrett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://spencerbarrett.ca/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Current Research</title>
+      <link>http://spencerbarrett.ca/research/current/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://spencerbarrett.ca/research/current/</guid>
+      <description>Research Projects in the SCH Barrett Lab Here is some of the research currently being undertaken in the Barrett lab with background and the particular projects that I have funding to support. Students or PDFs that are interested in these topics and who would like to work in my lab should contact me by e-mail.</description>
+    </item>
+    
+    <item>
+      <title>Publications Record</title>
+      <link>http://spencerbarrett.ca/research/publications/</link>
+      <pubDate>Thu, 16 Nov 2017 13:48:49 -0500</pubDate>
+      
+      <guid>http://spencerbarrett.ca/research/publications/</guid>
+      <description>Historical List of Publications Scientific Publications of Spencer C. H. Barrett.
+ Copyright notice: The PDF&amp;rsquo;s below are provided for the dissemination of scholarly research only. The copyrights are retained by the authors and/or publishers and anyone downloading the pdfs is expected to obey the legal requirements imposed by copyright law, and may not repost them without explicit permission from the copyright holder.
+ [1975]  Pickersgill, B.P., Barrett, S.</description>
+    </item>
+    
+  </channel>
+</rss>

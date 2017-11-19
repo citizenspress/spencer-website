@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo And Other Things on Spencer Barrett</title>
+    <link>http://spencerbarrett.ca/photos/</link>
+    <description>Recent content in Photo And Other Things on Spencer Barrett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2017 13:48:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://spencerbarrett.ca/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photos</title>
+      <link>http://spencerbarrett.ca/photos/</link>
+      <pubDate>Thu, 16 Nov 2017 13:48:49 -0500</pubDate>
+      
+      <guid>http://spencerbarrett.ca/photos/</guid>
+      <description>Photo Collections  Plants plants that we work on and others that caught my fancy. People a collection of images of biologists including lab alumni, collaborators and colleagues. Barrett&amp;rsquo;s Lab a collection of pictures of the lab, alumni and research in action. Research a collection of research related pictures. Other a collection of other pictures, including landscapes, travel, etc.   Most of these images were taken with an Olympus Camedia C 750 or C770 Digital Camera by Spencer Barrett.</description>
+    </item>
+    
+  </channel>
+</rss>

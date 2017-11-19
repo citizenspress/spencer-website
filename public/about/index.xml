@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Spencer Barrett</title>
+    <link>http://spencerbarrett.ca/about/</link>
+    <description>Recent content in About on Spencer Barrett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2017 13:48:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://spencerbarrett.ca/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spencer C.H. Barrett</title>
+      <link>http://spencerbarrett.ca/about/</link>
+      <pubDate>Thu, 16 Nov 2017 13:48:49 -0500</pubDate>
+      
+      <guid>http://spencerbarrett.ca/about/</guid>
+      <description>University Professor
+Department of Ecology and Evolutionary Biology
+University of Toronto
+25 Willcocks Street
+Toronto, Ontario, Canada
+M5S 3B2
+Phone: 416-978-4151
+Email: spencer.barrett@utoronto.ca
+Degrees  B. Sc. (Honours) Department of Agricultural Botany, University of Reading, England 1967-71
+ Ph. D. Department of Botany, University of California, Berkeley, U.S.A. 1972-77 Current Position
+ University Professor, University of Toronto, 2008
+ Canada Research Chair - Evolutionary Genetics Tier 1 2001-08, 2008-14</description>
+    </item>
+    
+  </channel>
+</rss>
