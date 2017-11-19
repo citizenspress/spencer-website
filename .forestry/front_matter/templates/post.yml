@@ -1,13 +1,12 @@
 ---
-pages:
-- blog/new-post.md
 hide_body: false
 fields:
-- type: textarea
-  name: post_body
-  label: Post Body
+- type: text
+  name: title
+  label: Title
+  description: Post title
   config:
-    wysiwyg: true
+    required: true
 - type: tag_list
   name: tags
   label: TAGS
@@ -23,9 +22,3 @@ fields:
   label: 'Upload Image '
   config:
     maxSize: '20'
-- type: text
-  name: title
-  label: Title
-  description: Post title
-  config:
-    required: true
