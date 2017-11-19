@@ -1,0 +1,31 @@
+baseURL = "http://spencerbarrett.ca/"
+languageCode = "en-us"
+title = "Spencer Barrett"
+subtitle = "Barrett's Lab"
+theme = "beg"
+
+
+
+[[menu.main]]
+    name = "Research"
+    weight = -110
+    identifier = "Research"
+    url = "/research/"
+    
+[[menu.main]]
+    name = "Books"
+    weight = 9
+    identifier = "Books"
+    url = "/research/books/"
+
+
+[[menu.main]]
+    name = "About"
+    weight = 10
+    identifier = "About"
+    url = "/about/"
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
