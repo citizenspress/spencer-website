@@ -10,17 +10,17 @@ title = "Gender strategies and the evolution of sex ratios"
 +++
 I have a long-standing interest in gender  strategies, and in trying to understand the costs and benefits of  combined versus separate sexes. Earlier work involved studies of _Aralia_ ([16](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#16), [18](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#18)) and _Wurmbea_ ([179](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#179), [227](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#227)) but more recently we have concentrated our efforts on the clonal, aquatic plant genus _Sagittaria_, particularly _S. latifolia_.  This species is common in eastern N. America and populations are mostly  either monoecious or dioecious and occupy different wetland habitats.  Although plants of the two sexual systems are fully inter-fertile, there  is little gene flow between them over most of their range because of  ecological and life-history differentiation. We have exploited the  intra-specific variation in sexual systems of _S. latifolia_ in an effort to understand the ecological and genetic mechanisms responsible for the evolution and maintenance of dioecy ([177](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#177), [184](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#184), [198](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#198), [205](http://labs.eeb.utoronto.ca/BarrettLab/schb_pub.html#205), [216](http://labs.eeb.utoronto.ca/BarrettLab/schb_pub.html#216)). [Sarah Yakimowski](http://labs.eeb.utoronto.ca/barrett/Yakimowski.html) has recently developed microsatellite markers for this species ([257](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#257))  and this has allowed us to investigate the breakdown of sexual system  differentiation at range limits where populations are composed of  females, males and hermaphrodites ([267](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#267)).
 
-> ![](/uploads/2017/11/19/Wurmbea450.jpg)
->
 > Floral diversity in insect-pollinated _Wurmbea_ (Colchicaeae) species ([227](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#227)). Populations of these species are either monomorphic or dimorphic for gender ([243](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#243)).
+
+![](/uploads/2017/11/19/Wurmbea450.jpg)
 
 I would be interested in supervising future student projects on _Sagittaria_  and these could involve investigations of: 1) the genetic basis of life  history differentiation in monoecious and dioecious populations using  QTL-mapping, 2) the ecological mechanisms responsible for sexual system  differentiation through reciprocal transplant experiments; 3) the role  of clone size, geitonogamous selfing and inbreeding depression in the  spread of unisexuals in monoecious populations.
 
-> ![](/uploads/2017/11/19/Arowhead-hermaphrodite300.jpg)
+![](/uploads/2017/11/19/Arowhead-hermaphrodite300.jpg)
 
-> ![](/uploads/2017/11/19/Arrowhead-female304.jpg)
+![](/uploads/2017/11/19/Arrowhead-female304.jpg)
 
-> ![](/uploads/2017/11/19/Arrowhead-male309.jpg)
+![](/uploads/2017/11/19/Arrowhead-male309.jpg)
 
 > Inflorescences of hermaphrodite, female and male plants of _Sagittaria latifolia_ (Alismataceae)
 
@@ -45,5 +45,5 @@ We are interested  in investigating various aspects of the molecular population 
 This will be undertaken by  comparing patterns and amounts of nucleotide diversity and molecular  evolution across regions of the X and Y chromosome, and with autosomal  genes. We are also interested in investigating the relation between  sex-linked genes and the degree of sexual dimorphism, and the extent to  which female bias in populations may influence patterns of diversity.  Finally, obtaining a suite of sex-linked markers will also provide an  outstanding resource for future experimental studies aimed at dissecting  the gender-based life-cycle selection that results in female bias.
 
 > _Rumex nivalis_ and _R. hastatulus_ (Polygonaceae), dioecious wind-pollinated species with female-biased sex ratios ([223](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#223)).
->
-> ![](/uploads/2017/11/19/New-Rumex-species800.jpg)
+
+![](/uploads/2017/11/19/New-Rumex-species800.jpg)
