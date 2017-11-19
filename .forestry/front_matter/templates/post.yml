@@ -1,4 +1,6 @@
 ---
+pages:
+- blog/new-post.md
 hide_body: false
 fields:
 - type: text
@@ -22,3 +24,9 @@ fields:
   label: 'Upload Image '
   config:
     maxSize: '20'
+- type: textarea
+  name: description
+  label: description
+  description: Description of post
+  config:
+    required: true
