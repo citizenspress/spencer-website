@@ -1,11 +1,11 @@
 ---
-title: "Spencer C.H. Barrett"
-subtitle: "Professor"
-date: "2017-09-28T17:00:00+05:00"
-thumbnail: "img/research/books.jpg"
+title: Spencer C.H. Barrett
+subtitle: Professor
+date: 2017-09-28 17:00:00 +0500
+thumbnail: img/research/books.jpg
+type: page
 
 ---
-
 Department of Ecology & Evolutionary Biology  
 University of Toronto
 
