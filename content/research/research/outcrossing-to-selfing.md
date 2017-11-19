@@ -2,7 +2,6 @@
 date = "2017-11-19T17:20:25+00:00"
 date_field = "2017-11-17T00:00:00-05:00"
 description = "The transition from outcrossing to selfing is very common in flowering plants and has important demographic, genetic and evolutionary consequences. We have worked on this problem using two main systems (Turnera, Eichhornia); both involve the evolutionary breakdown of heterostyly (58, 72). Most of our focus in recent years has been on the neotropical, annual, aquatic Eichhornia paniculata, where we have evidence of multiple independent transitions to selfing (115, 259)."
-draft = true
 tags = ["lab"]
 thumbnail = "/uploads/2017/11/19/Breakdown-of-tristyly.gif"
 title = "Evolutionary transitions from outcrossing to selfing"
