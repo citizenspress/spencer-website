@@ -44,6 +44,6 @@ We are interested  in investigating various aspects of the molecular population 
 
 This will be undertaken by  comparing patterns and amounts of nucleotide diversity and molecular  evolution across regions of the X and Y chromosome, and with autosomal  genes. We are also interested in investigating the relation between  sex-linked genes and the degree of sexual dimorphism, and the extent to  which female bias in populations may influence patterns of diversity.  Finally, obtaining a suite of sex-linked markers will also provide an  outstanding resource for future experimental studies aimed at dissecting  the gender-based life-cycle selection that results in female bias.
 
-> ![](/uploads/2017/11/19/New-Rumex-species800.jpg "Rumex nivalis and R. hastatulus (Polygonaceae), dioecious wind-pollinated species with female-biased sex ratios (223)")
->
 > _Rumex nivalis_ and _R. hastatulus_ (Polygonaceae), dioecious wind-pollinated species with female-biased sex ratios ([223](http://labs.eeb.utoronto.ca/barrett/schb_pub.html#223)).
+>
+> ![](/uploads/2017/11/19/New-Rumex-species800.jpg)
