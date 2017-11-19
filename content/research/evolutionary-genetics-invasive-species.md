@@ -2,7 +2,6 @@
 categories = ["research"]
 date = "2017-11-19T18:11:59+00:00"
 description = "Ever since I worked as a weed biologist in Swaziland and the Lower Amazon Basin, I have been fascinated by the ecology and evolution of invasive plants. Where do they come from and why are they invasive? My early studies concerned two quite different problems: 1) crop mimicry in barnyard grasses (24); 2) the relative importance of clonal vs. sexual reproduction in water hyacinth (10, 11). "
-draft = true
 image = ""
 tags = ["lab"]
 thumbnail = "/uploads/2017/11/19/Invasive-744.jpg"
