@@ -1,11 +1,8 @@
 ---
-title: "Spencer C.H. Barrett"
-date: 2017-11-16T13:48:49-05:00
-draft: false
+title: Spencer C.H. Barrett
+date: 2017-11-16 13:48:49 -0500
 
 ---
-
-
 University Professor
 
 <img src="about.jpg" style="margin: 10pt" align="right">
