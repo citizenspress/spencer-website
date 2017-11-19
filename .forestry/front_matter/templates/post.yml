@@ -30,3 +30,9 @@ fields:
   description: Description of post
   config:
     required: true
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: Image that will show beside description
+  config:
+    maxSize: '3'
