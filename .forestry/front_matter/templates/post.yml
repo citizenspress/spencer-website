@@ -1,0 +1,29 @@
+---
+hide_body: false
+fields:
+- type: textarea
+  name: post_body
+  label: Post Body
+  config:
+    wysiwyg: true
+- type: tag_list
+  name: tags
+  label: TAGS
+  description: Identify tag identifiers for post
+- type: datetime
+  name: date_field
+  label: Date Field
+  description: Date of post - newer are higher
+  config:
+    required: true
+- type: file
+  name: upload_image_
+  label: 'Upload Image '
+  config:
+    maxSize: '20'
+- type: text
+  name: title
+  label: Title
+  description: Post title
+  config:
+    required: true
