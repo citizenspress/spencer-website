@@ -35,6 +35,10 @@ main {
   display: block;
 }
 
+img {
+  max-width: 100%;
+}
+
 /* Override */
 .navbar {
   border-radius: 0;
