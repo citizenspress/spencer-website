@@ -36,3 +36,6 @@ fields:
   type: file
   hidden: false
   default: ''
+- type: tag_list
+  name: tags
+  label: tags
